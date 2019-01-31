@@ -1,0 +1,8 @@
+$(".date").waypoint(function(){
+
+функция внутри
+
+	this.destroy();
+    }, {
+    offset: '60%',
+   });
